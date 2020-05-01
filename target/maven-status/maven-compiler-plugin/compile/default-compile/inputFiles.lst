@@ -1,0 +1,13 @@
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/util/Validator.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/model/ShipType.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/config/AppConfig.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/repository/JpaShipRepository.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/util/NotFoundException.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/config/WebConfig.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/service/ShipServiceImpl.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/config/MyWebAppInit.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/controller/ShipOrder.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/controller/ShipController.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/util/BadRequestException.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/model/Ship.java
+/Users/elenka/Desktop/misha/javarushTrainee/testtask/template/space/src/main/java/com/space/service/ShipService.java
